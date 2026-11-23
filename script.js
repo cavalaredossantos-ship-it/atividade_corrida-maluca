@@ -1,0 +1,7 @@
+const carro1 = document.getElementById("carro1");
+const carro2 = document.getElementById("carro2");
+const carro1 = document.getElementById("botao1");
+const carro1 = document.getElementById("botao2");
+const reiniciar = document.getElementById("reiniciar");
+const mensagem = document.getElementById("mensagem");
+const chegada = document.getElementById("chegada");
